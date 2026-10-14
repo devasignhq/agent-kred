@@ -60,4 +60,4 @@ Catalogs choose how much to adopt. Records match listings by the seller's wallet
 
 ## License
 
-MIT
+This project is licensed under the Apache 2.0 License. See [LICENSE](https://github.com/devasignhq/agentkred/blob/main/LICENSE) for more details.
